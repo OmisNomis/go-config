@@ -1,0 +1,8 @@
+{
+  "simpleNumber": 1,
+  "simpleString": "one",
+  "simpleBool": true,
+  "test": {
+    "one": 2
+  }
+}
